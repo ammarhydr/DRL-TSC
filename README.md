@@ -1,3 +1,3 @@
-# Deep reinforcement-based traffic signal controller framework.
+# Security of Deep reinforcement-based traffic signal controllers.
 
-The project trained DQN and A2C agents for optimizing traffic signals for single intersections and multiple intersections.
+The repository contains the experiments of adversarial attacks and experiments for Deep Reinforcement Learning based TSCs implemented in python.
